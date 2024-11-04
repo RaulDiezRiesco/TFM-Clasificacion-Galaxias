@@ -1,0 +1,1211 @@
+Clasificación_Real,explicación_clasificación_2,clasificación_2
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ SB(rs)cd                                                                                             ,espiral barrada,1
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(rs)b:                                                                                             ,espiral no barrada,0
+ SB(s)m pec or Pec (merger)                                                                           ,espiral barrada,1
+ SAB(rs)ab                                                                                            ,espiral barrada intermedia,2
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ SAc pec                                                                                              ,espiral no barrada,0
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ Sb: spw pec                                                                                          ,espiral barra indeterminada,4
+ E3-4                                                                                                 ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ (R')SA(l)b                                                                                 ,espiral no barrada,0
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ S_AB(rs)c pec                                                                       ,espiral barrada intermedia,2
+ Sdm: sp                                                                                              ,espiral barra indeterminada,4
+ (R'L)SA(_rs)a                                                             ,espiral no barrada,0
+ Pec (merger)                                                                                         ,peculiar,8
+ SAcd sp pec                                                                                          ,espiral no barrada,0
+ (R)S_AB(rl)0^+                                                                    ,espiral barrada intermedia,2
+ SA(r)0^+ / E1                                                                                      ,espiral no barrada,0
+ Sd: sp                                                                                               ,espiral barra indeterminada,4
+ Sdm sp                                                                                               ,espiral barra indeterminada,4
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ SB(s)d                                                                                               ,espiral barrada,1
+ SA(s)ab                                                                                              ,espiral no barrada,0
+ (R')SA(s)c pec                                                                             ,espiral no barrada,0
+ SB(s)cd                                                                                              ,espiral barrada,1
+ SAB(s)c                                                                                              ,espiral barrada intermedia,2
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(rs)c                                                                                              ,espiral no barrada,0
+" (R')SA(_rs,r'l)b                                                ",espiral no barrada,0
+ SAB(s)dm sp pec                                                                                      ,espiral barrada intermedia,2
+ SA(rl)0^+                                                                                          ,espiral no barrada,0
+ IB(s)m                                                                                               ,irregular,7
+ SB(_rs)b                                                                            ,espiral barrada,1
+ SAB(rs)bc                                                                                            ,espiral barrada intermedia,2
+ SA(s)m                                                                                               ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ SA(r_s)b                                                                            ,espiral no barrada,0
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+ SA(s)dm pec                                                                                          ,espiral no barrada,0
+ SAB(s)b                                                                                              ,espiral barrada intermedia,2
+" (R_1'R_2')SB(p,rs,ns,tb)b                                                        ",espiral barrada,1
+ SAB_a(rs)0/a                                                                                       ,espiral barrada peculiar,3
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA_B(s)d                                                                            ,espiral barrada intermedia,2
+ (R_2')SB(r'l)0/a                                                                 ,espiral barrada,1
+ IB(s)m sp                                                                                            ,irregular,7
+ SB(s)m: pec                                                                                          ,espiral barrada,1
+ (R')SAB(s)b                                                                                ,espiral barrada intermedia,2
+ SAB(s)bc                                                                                             ,espiral barrada intermedia,2
+" (L,R_1')SAB(rs)a                                                                           ",espiral barrada intermedia,2
+ SAB(_rs)b                                                                           ,espiral barrada intermedia,2
+ SA(l:)0/a                                                                                            ,espiral no barrada,0
+ Sc sp                                                                                                ,espiral barra indeterminada,4
+ S_AB(rs)b                                                                           ,espiral barrada intermedia,2
+ S_AB(s)c                                                                            ,espiral barrada intermedia,2
+ SA(s)b: pec                                                                                          ,espiral no barrada,0
+ IB(s)m                                                                                               ,irregular,7
+ SAB(rs)c pec                                                                                         ,espiral barrada intermedia,2
+ SA(r_s)c                                                                            ,espiral no barrada,0
+ SA(s)c sp                                                                                            ,espiral no barrada,0
+ SAB0^-                                                                                             ,espiral barrada intermedia,2
+ SA(s)bc pec                                                                                          ,espiral no barrada,0
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S_AB(s)cd                                                                           ,espiral barrada intermedia,2
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(r_s)bc                                                                           ,espiral no barrada,0
+ SAB(s)m                                                                                              ,espiral barrada intermedia,2
+ SB(_rs)b                                                                            ,espiral barrada,1
+ S_AB(s)c: pec sp                                                                    ,espiral barrada intermedia,2
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SAB(rs)c                                                                                             ,espiral barrada intermedia,2
+" (R'L)SA(rs,r'l)ab                                                                ",espiral no barrada,0
+ S0^- sp                                                                                            ,lenticular,5
+ SA(s)c sp                                                                                            ,espiral no barrada,0
+ Sc spw                                                                                               ,espiral barra indeterminada,4
+ SAB(r_s)c                                                                           ,espiral barrada intermedia,2
+ (R')SB(s)dm                                                                                ,espiral barrada,1
+ E(b)4-5                                                                                              ,elíptica,6
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (RL)SA(l)0^+                                                                                       ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ Sdm sp                                                                                               ,espiral barra indeterminada,4
+ (R)SAB(rl)0^+                                                                                      ,espiral barrada intermedia,2
+ SA(l)0^-                                                                                           ,espiral no barrada,0
+ (R)S_AB(r'l)0^+                                                         ,espiral barrada intermedia,2
+ SB_a(s)c                                                                                           ,espiral barrada peculiar,3
+ (R')SB(r)bc pec                                                                            ,espiral barrada,1
+ SA0/a sp                                                                                             ,espiral no barrada,0
+ SA(r)0/a                                                                                             ,espiral no barrada,0
+ SAB_a(s)cd                                                                                         ,espiral barrada peculiar,3
+ SB(rs)bc pec                                                                                         ,espiral barrada,1
+ SB(_rs)b                                                                            ,espiral barrada,1
+ SA_B(s)dm                                                                           ,espiral barrada intermedia,2
+ (R')SA(r)b                                                                                 ,espiral no barrada,0
+ Sa sp / E6 pec                                                                                       ,espiral barra indeterminada,4
+ SB(s)cd                                                                                              ,espiral barrada,1
+ SB(rs)ab                                                                                             ,espiral barrada,1
+ SA_B(rs)c                                                                           ,espiral barrada intermedia,2
+ SA(rs)b                                                                                              ,espiral no barrada,0
+ SA_B(rs)bc pec                                                                      ,espiral barrada intermedia,2
+ S_AB(s)a                                                                            ,espiral barrada intermedia,2
+ SAB(s)bc                                                                                             ,espiral barrada intermedia,2
+ E2                                                                                                   ,elíptica,6
+ SB(s)d sp / E7                                                                                       ,espiral barrada,1
+ (R_1')SAB(_rs)a                                                           ,espiral barrada intermedia,2
+ SAB:(s)d sp                                                                                          ,espiral barrada intermedia,2
+" SA(s,nb)c pec                                                                                        ",espiral no barrada,0
+ (R')S_AB(s)bc                                                             ,espiral barrada intermedia,2
+" SB(rs,bl)bc                                                                                          ",espiral barrada,1
+ SA(rs)c sp                                                                                           ,espiral no barrada,0
+ SAB(s)cd                                                                                             ,espiral barrada intermedia,2
+" (R')SA(_rs,bl)b                                                           ",espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SB(s)cd                                                                                              ,espiral barrada,1
+ SAB:(s)cd sp                                                                                         ,espiral barrada intermedia,2
+ SA(rs)b pec                                                                                          ,espiral no barrada,0
+ (R')SA(r)a                                                                                 ,espiral no barrada,0
+ SA(s)dm (cc)                                                                                         ,espiral no barrada,0
+" (RL)SAB(r,nb)0^+                                                                                   ",espiral barrada intermedia,2
+ (R_2')S_AB(r)b                                                            ,espiral barrada intermedia,2
+ SAcd:                                                                                                ,espiral no barrada,0
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ SAB(s)c                                                                                              ,espiral barrada intermedia,2
+ Sb sp                                                                                                ,espiral barra indeterminada,4
+ (R')SB(rs)b pec                                                                            ,espiral barrada,1
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+ SA(_rs)b                                                                            ,espiral no barrada,0
+" SA(s,rl)bc                                                                                           ",espiral no barrada,0
+ (R_1')SB(r)a                                                                               ,espiral barrada,1
+ S_AB(rs)b                                                                           ,espiral barrada intermedia,2
+ (L)SB(bl)0^o                                                                                       ,espiral barrada,1
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R_1')SAB:(rs)b sp                                                                         ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ E(d)4-5                                                                                              ,elíptica,6
+ SA(s)c pec                                                                                           ,espiral no barrada,0
+" (R_1')SA_B(p,_rs)ab                                      ",espiral barrada intermedia,2
+ Sbc spw                                                                                              ,espiral barra indeterminada,4
+" (R_1')SB(p,r_s)b pec                                                      ",espiral barrada,1
+ SB(rs)d                                                                                              ,espiral barrada,1
+ SAB(rs)m pec                                                                                         ,espiral barrada intermedia,2
+ (L)SB(bl)0/a                                                                                         ,espiral barrada,1
+ (L)SB_a0^o                                                                                       ,espiral barrada peculiar,3
+ S_AB(l)0^o                                                                        ,espiral barrada intermedia,2
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ SAB(_rs)b                                                                           ,espiral barrada intermedia,2
+ SA(s)bc:                                                                                             ,espiral no barrada,0
+" SB(s,l)dm                                                                                            ",espiral barrada,1
+ SA_B(rs)c                                                                           ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(rs)b                                                                                              ,espiral no barrada,0
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+ (R')SB(_rs)a                                                              ,espiral barrada,1
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ S_AB(s)bc                                                                           ,espiral barrada intermedia,2
+ SA(r)0^+                                                                                           ,espiral no barrada,0
+ (R')SAB(_rs)a                                                             ,espiral barrada intermedia,2
+ SB0^-                                                                                              ,espiral barrada,1
+ SB(r_s)cd                                                                           ,espiral barrada,1
+ (R')SA0/a                                                                                  ,espiral no barrada,0
+ SAB(s)b sp                                                                                           ,espiral barrada intermedia,2
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SAa pec                                                                                              ,espiral no barrada,0
+ (R_1')SA_B(rs)ab pec                                                      ,espiral barrada intermedia,2
+ (R_1')SAB(s)a                                                                              ,espiral barrada intermedia,2
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+ Sdm sp                                                                                               ,espiral barra indeterminada,4
+ SB(rs)d                                                                                              ,espiral barrada,1
+ (R_2')SAB_a(rs)ab                                                                        ,espiral barrada peculiar,3
+ SA(s)dm                                                                                              ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(r_s)bc                                                                           ,espiral no barrada,0
+ SAB(rs)bc                                                                                            ,espiral barrada intermedia,2
+ Sm sp + inner PD?                                                                                    ,espiral barra indeterminada,4
+ SA(rs)b:                                                                                             ,espiral no barrada,0
+" SA(rs,l)b                                                                                            ",espiral no barrada,0
+ S_AB(rs)ab                                                                          ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA_B(s)d                                                                            ,espiral barrada intermedia,2
+ SA(s)cd pec                                                                                          ,espiral no barrada,0
+ (R_1')SB(rs)b                                                                              ,espiral barrada,1
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Sd sp                                                                                                ,espiral barra indeterminada,4
+ SA(rs)c sp                                                                                           ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SB(rs)ab                                                                                             ,espiral barrada,1
+ SB(s)m sp                                                                                            ,espiral barrada,1
+ SA(s)a:                                                                                              ,espiral no barrada,0
+ SAB(r_s)c pec                                                                       ,espiral barrada intermedia,2
+ SA(r)0^+ / E(d)5                                                                                   ,espiral no barrada,0
+ SA(r_s)bc                                                                           ,espiral no barrada,0
+ E1                                                                                                   ,elíptica,6
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+ SA(s)ab                                                                                              ,espiral no barrada,0
+ Sa sp                                                                                                ,espiral barra indeterminada,4
+ SAB(s)a:                                                                                             ,espiral barrada intermedia,2
+ SB(s:)cd                                                                                             ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+" SA(r_s,nl)c                                                                         ",espiral no barrada,0
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ SAB(s)d                                                                                              ,espiral barrada intermedia,2
+ (R')SA(rs)a:                                                                               ,espiral no barrada,0
+ (R')SA(rs)b sp                                                                             ,espiral no barrada,0
+ SAB(s)cd                                                                                             ,espiral barrada intermedia,2
+ (R')SA(rs)b pec                                                                            ,espiral no barrada,0
+ SA(r_s)bc                                                                           ,espiral no barrada,0
+ SA(rl)bc                                                                                             ,espiral no barrada,0
+ (R')SAB(s)0/a                                                                              ,espiral barrada intermedia,2
+ (R'L)SA(s)bc pec                                                                           ,espiral no barrada,0
+ SA(rs)b sp                                                                                           ,espiral no barrada,0
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+" (R')SA(rs,r)b                                                                              ",espiral no barrada,0
+ SA(l)0^+ / E(d)5                                                                                   ,espiral no barrada,0
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA(rs)b: sp                                                                                          ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+" (R_1')SB(_rs,bl)ab                                                        ",espiral barrada,1
+ SA(rs)b                                                                                              ,espiral no barrada,0
+ (R')E4                                                                                     ,elíptica,6
+" (R_2')SA_B_a(s,nb)bc                                                    ",espiral barrada intermedia,2
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SAa pec                                                                                              ,espiral no barrada,0
+ Sa sp / E(b)2 pec                                                                                    ,espiral barra indeterminada,4
+ SB(rs)dm                                                                                             ,espiral barrada,1
+ S_AB(s)cd                                                                           ,espiral barrada intermedia,2
+ SAc sp                                                                                               ,espiral no barrada,0
+ (R)SA(rl)a                                                                                           ,espiral no barrada,0
+ (R')SAB(s)0/a                                                                              ,espiral barrada intermedia,2
+ Pec (merger)                                                                                         ,peculiar,8
+ SAB(s)b sp                                                                                           ,espiral barrada intermedia,2
+" (R',R')SB(r)a pec                                                                ",espiral barrada,1
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+ SB(rs)dm                                                                                             ,espiral barrada,1
+ SAB(s)dm                                                                                             ,espiral barrada intermedia,2
+ SB(s)dm                                                                                              ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ E2                                                                                                   ,elíptica,6
+ (R')SA(rs)a pec                                                                            ,espiral no barrada,0
+ SA_B(rs)cd                                                                          ,espiral barrada intermedia,2
+ (R')SA(rs)bc                                                                               ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ SA(rl)0^o sp                                                                                       ,espiral no barrada,0
+ SA_B(r)bc pec                                                                       ,espiral barrada intermedia,2
+" (R_1')SA_B(p,r_s)ab                                      ",espiral barrada intermedia,2
+ (R')SA(s)c                                                                                 ,espiral no barrada,0
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SAB(s)b                                                                                              ,espiral barrada intermedia,2
+ SB(_rs)bc                                                                           ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SAB(s)b                                                                                              ,espiral barrada intermedia,2
+ (R')SAB(rl)a                                                                               ,espiral barrada intermedia,2
+ S_AB(s)bc pec                                                                       ,espiral barrada intermedia,2
+ E2                                                                                                   ,elíptica,6
+ SB(r_s)cd                                                                           ,espiral barrada,1
+ SA0^-:                                                                                             ,espiral no barrada,0
+ SB(rs)0/a                                                                                            ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SB(s)dm                                                                                              ,espiral barrada,1
+ SAB(r_s)b                                                                           ,espiral barrada intermedia,2
+ E1                                                                                                   ,elíptica,6
+ SAB:(s)dm sp                                                                                         ,espiral barrada intermedia,2
+ (R')SAB(rs)a                                                                               ,espiral barrada intermedia,2
+ SAB(r'l)0^o                                                                              ,espiral barrada intermedia,2
+ (R_1')SAB(l)ab                                                                             ,espiral barrada intermedia,2
+ (R')SA(s)ab                                                                                ,espiral no barrada,0
+ E0-1                                                                                                 ,elíptica,6
+ SA(s)bc pec                                                                                          ,espiral no barrada,0
+ S_AB(rs)c                                                                           ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SAb spw                                                                                              ,espiral no barrada,0
+ SA_B(rs)bc                                                                          ,espiral barrada intermedia,2
+ dE3?                                                                                                 ,elíptica,6
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ (R_1)SB(rl)0/a                                                                                     ,espiral barrada,1
+ S_AB(s)c                                                                            ,espiral barrada intermedia,2
+ SA(s)b pec                                                                                           ,espiral no barrada,0
+ (R')SA(s)c                                                                                 ,espiral no barrada,0
+ SB(r_s)d                                                                            ,espiral barrada,1
+ SAB(s)c pec                                                                                          ,espiral barrada intermedia,2
+ SAB(_rs)0/a                                                                         ,espiral barrada intermedia,2
+ E1                                                                                                   ,elíptica,6
+ (RL)S_AB_a(l)0^+                                                                ,espiral barrada intermedia,2
+ SAB(s)d (cc)                                                                                         ,espiral barrada intermedia,2
+ E2-3                                                                                                 ,elíptica,6
+ Sdm sp                                                                                               ,espiral barra indeterminada,4
+ SA(s)ab                                                                                              ,espiral no barrada,0
+ SA(s)d                                                                                               ,espiral no barrada,0
+ SAB(rs)ab                                                                                            ,espiral barrada intermedia,2
+ SB_x0^+ sp                                                                                       ,espiral barrada peculiar,3
+" (R')SA(rs,r)bc                                                                             ",espiral no barrada,0
+ (R')SA(rs)a pec                                                                            ,espiral no barrada,0
+ S_AB0^-                                                                           ,espiral barrada intermedia,2
+ SA0^-:                                                                                             ,espiral no barrada,0
+ S_AB(s)a pec                                                                        ,espiral barrada intermedia,2
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ (R')SA(r)a                                                                                 ,espiral no barrada,0
+" (R)SA_B_a(r'l,x_1r,nb)a                                                 ",espiral barrada intermedia,2
+ SAB(rs)bc pec                                                                                        ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ E3                                                                                                   ,elíptica,6
+ SB(s)dm pec or [(R')SB(s)d+SBd:] superposition                                             ,espiral barrada,1
+ SB(rs)dm pec                                                                                         ,espiral barrada,1
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ SAc                                                                                                  ,espiral no barrada,0
+ SA0^- / E6                                                                                         ,espiral no barrada,0
+ SA(s)c pec                                                                                           ,espiral no barrada,0
+ SA(r_s)c                                                                            ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ SB(s)m                                                                                               ,espiral barrada,1
+ SA(s)b:                                                                                              ,espiral no barrada,0
+ SAc sp                                                                                               ,espiral no barrada,0
+" SA(r,nl)b                                                                                            ",espiral no barrada,0
+ (R')SA(rs)ab                                                                               ,espiral no barrada,0
+ (R')SB(s)cd                                                                                ,espiral barrada,1
+ SA(s)b                                                                                               ,espiral no barrada,0
+ SAB(s)d                                                                                              ,espiral barrada intermedia,2
+ SAB(r_s)cd                                                                          ,espiral barrada intermedia,2
+ SA0/a: pec                                                                                           ,espiral no barrada,0
+ S_AB(s)d                                                                            ,espiral barrada intermedia,2
+" (R')SAB(r_s,rs)d                                                          ",espiral barrada intermedia,2
+" (RL)SB(rs,bl)0^+                                                                                   ",espiral barrada,1
+ SA(r)0^+ pec                                                                                       ,espiral no barrada,0
+ SA(_rs)b                                                                            ,espiral no barrada,0
+ SAB(s)cd                                                                                             ,espiral barrada intermedia,2
+ (R')SB(r_s)d                                                              ,espiral barrada,1
+ S_AB(r'l)b                                                                ,espiral barrada intermedia,2
+ SAc sp                                                                                               ,espiral no barrada,0
+ SAB(s)bc                                                                                             ,espiral barrada intermedia,2
+ SB(s)dm                                                                                              ,espiral barrada,1
+ SA(r)0^+ or SB_x0^+                                                                            ,espiral barrada peculiar,3
+ SA(rs)ab / E-S0 pec                                                                                  ,lenticular,5
+ S_AB(s)c                                                                            ,espiral barrada intermedia,2
+ (R')SAB(s)0/a                                                                              ,espiral barrada intermedia,2
+ SAB(s)c pec                                                                                          ,espiral barrada intermedia,2
+ (R:)SA(l)0^o                                                                                       ,espiral no barrada,0
+ SB(s)d pec                                                                                           ,espiral barrada,1
+ SAa pec                                                                                              ,espiral no barrada,0
+ SAc pec                                                                                              ,espiral no barrada,0
+ SA0/a pec                                                                                            ,espiral no barrada,0
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ Sb spw                                                                                               ,espiral barra indeterminada,4
+ SA(r'l)bc                                                                                  ,espiral no barrada,0
+ SAB(s)d                                                                                              ,espiral barrada intermedia,2
+ (R_1')SA(r)0/a                                                                             ,espiral no barrada,0
+ (R')SA(s)b                                                                                 ,espiral no barrada,0
+ Sa sp / E(d)2                                                                                        ,espiral barra indeterminada,4
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+" (R')SB(r,bl)ab                                                                             ",espiral barrada,1
+ (R')SA(rl)a                                                                                ,espiral no barrada,0
+" SA(rs:,nl)c pec                                                                                      ",espiral no barrada,0
+ S                                                                                                    ,espiral barra indeterminada,4
+ SA(rs)cd:                                                                                            ,espiral no barrada,0
+ SA_B(s)d                                                                            ,espiral barrada intermedia,2
+ SB(s)c pec                                                                                           ,espiral barrada,1
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ SAB(s)cd pec                                                                                         ,espiral barrada intermedia,2
+ SB(s)cd                                                                                              ,espiral barrada,1
+ E^+1-2                                                                                             ,elíptica,6
+ (R')SB(rs)a                                                                                ,espiral barrada,1
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ E3                                                                                                   ,elíptica,6
+ SA(rl)bc                                                                                             ,espiral no barrada,0
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ SAB(s)a                                                                                              ,espiral barrada intermedia,2
+" (R_2')SB(_rs,bl)b                                                         ",espiral barrada,1
+ SA(rs)b pec                                                                                          ,espiral no barrada,0
+ (R')SAc sp                                                                                 ,espiral no barrada,0
+ S_AB(rs)b                                                                           ,espiral barrada intermedia,2
+ SA(r)0^o / E2                                                                                      ,espiral no barrada,0
+ SB(rs)cd                                                                                             ,espiral barrada,1
+ E0-1                                                                                                 ,elíptica,6
+ (L)SAB(rs)a pec                                                                                      ,espiral barrada intermedia,2
+" (R'L)SB(_rs,s)a                                                           ",espiral barrada,1
+ IB(s)m                                                                                               ,irregular,7
+ SAB(rs)cd                                                                                            ,espiral barrada intermedia,2
+ (R')SAB(rs)bc: pec                                                                         ,espiral barrada intermedia,2
+" (R_1')SAB(p,rs,bl)ab                                                                       ",espiral barrada intermedia,2
+ SA(s)bc sp                                                                                           ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ (R_1')SB_a(rs)a                                                                          ,espiral barrada peculiar,3
+" SB(rs,bl)bc                                                                                          ",espiral barrada,1
+ SB(s)cd sp                                                                                           ,espiral barrada,1
+ SAc: sp pec                                                                                          ,espiral no barrada,0
+" (R')SB(r,bl)b                                                                              ",espiral barrada,1
+ (R')SAB_a(r'l)a                                                                ,espiral barrada peculiar,3
+ SA0^-                                                                                              ,espiral no barrada,0
+ S_AB(r)cd                                                                           ,espiral barrada intermedia,2
+ (R')SB(s)dm (cc)                                                                           ,espiral barrada,1
+ (R')SA(s)b                                                                                 ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ (R')SA(r)ab                                                                                ,espiral no barrada,0
+ Sc spw                                                                                               ,espiral barra indeterminada,4
+ SB(rs)b                                                                                              ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SB0^-                                                                                              ,espiral barrada,1
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R')SA_B(r)a                                                              ,espiral barrada intermedia,2
+ S_AB(s)c                                                                            ,espiral barrada intermedia,2
+ SA:(s)bc sp                                                                                          ,espiral no barrada,0
+ E1-2                                                                                                 ,elíptica,6
+ (R_1R_2')SA(l)ab                                                                         ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ SA_x(r)b                                                                                           ,espiral no barrada,0
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ SA(r_s)bc                                                                           ,espiral no barrada,0
+ Sdm sp                                                                                               ,espiral barra indeterminada,4
+ SA_B(s)0^o                                                                        ,espiral barrada intermedia,2
+" SB(_rs,bl)b pec                                                                     ",espiral barrada,1
+ SA(_rs)a pec                                                                        ,espiral no barrada,0
+ S_AB(rs)0/a                                                                         ,espiral barrada intermedia,2
+ (R_1')SA_B_a(l)a                                                        ,espiral barrada intermedia,2
+ SB(s)b: sp                                                                                           ,espiral barrada,1
+ SA(s)c                                                                                               ,espiral no barrada,0
+ E4                                                                                                   ,elíptica,6
+ (R_1)SB(r)0^+                                                                                    ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA0^-                                                                                              ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+" SA_B(r,bl)bc pec                                                                    ",espiral barrada intermedia,2
+ (R')SA(rl)a                                                                                ,espiral no barrada,0
+ SB(_rs)bc pec                                                                       ,espiral barrada,1
+ (R_1)SAB_xa(r'l)a                                                                    ,espiral barrada peculiar,3
+" (R_1'R_2')SB_a(p,_rs,bl)b                                     ",espiral barrada peculiar,3
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA(s)b                     ,espiral no barrada,0
+ SA(r)bc                                                                                              ,espiral no barrada,0
+ SA(r)ab pec                                                                                          ,espiral no barrada,0
+ (R')S_AB(rs)bc: pec                                                       ,espiral barrada intermedia,2
+ SB(_rs)bc pec                                                                       ,espiral barrada,1
+ SA(s)bc sp                                                                                           ,espiral no barrada,0
+ E(d)5 / SA0^-                                                                                      ,espiral no barrada,0
+ SB(s)d sp                                                                                            ,espiral barrada,1
+ SA(rs)b sp                                                                                           ,espiral no barrada,0
+ SA0^- sp                                                                                           ,espiral no barrada,0
+ (R_2')SAB_a(l)b                                                                          ,espiral barrada peculiar,3
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA(r:)ab / E(d)1-2                                                                                   ,espiral no barrada,0
+ (R_1')S_AB(_rs)ab spw?                                   ,espiral barrada intermedia,2
+ SB0^-                                                                                              ,espiral barrada,1
+ SAB(s)c sp                                                                                           ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+" (R')SA(r'l,rs)c                                                                  ",espiral no barrada,0
+ (R'L)SA(l)0/a                                                                              ,espiral no barrada,0
+ (R')SA(s)ab                                                                                ,espiral no barrada,0
+ SA(_rs)c                                                                            ,espiral no barrada,0
+ (R')SAcd sp                                                                                ,espiral no barrada,0
+ SA_B0^o                                                                           ,espiral barrada intermedia,2
+ E4-5                                                                                                 ,elíptica,6
+ SAc sp                                                                                               ,espiral no barrada,0
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ (R')SB(rs)a                                                                                ,espiral barrada,1
+ (R')SA(ls)b                                                                                ,espiral no barrada,0
+ SAB_x(r)0^+                                                                                      ,espiral barrada peculiar,3
+" (R')SA(s,l,s)b                                                                             ",espiral no barrada,0
+ SB(rs)dm                                                                                             ,espiral barrada,1
+ (R)SA(rs)a pec                                                                                       ,espiral no barrada,0
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SAd:                                                                                                 ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SAB(s)d sp                                                                                           ,espiral barrada intermedia,2
+ SA(s)c pec                                                                                           ,espiral no barrada,0
+" (R')SA(rs,l)b                                                                              ",espiral no barrada,0
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ (R')SAB(s)d                                                                                ,espiral barrada intermedia,2
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(s)b:                                                                                              ,espiral no barrada,0
+ SA(rs)c sp                                                                                           ,espiral no barrada,0
+ (R_1')SA_B(_rs)ab                                        ,espiral barrada intermedia,2
+ E3-4                                                                                                 ,elíptica,6
+" (R')SA_B_a(s,tb)b                                                       ",espiral barrada intermedia,2
+ Sc spw                                                                                               ,espiral barra indeterminada,4
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R_2')SAB_a(r)a                                                                          ,espiral barrada peculiar,3
+ Sb sp                                                                                                ,espiral barra indeterminada,4
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(rs)0/a                                                                                            ,espiral no barrada,0
+ (R')SA(s)cd pec                                                                            ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+ (R')SA(s)b                                                                                 ,espiral no barrada,0
+ (R')SAB(rs)b pec                                                                           ,espiral barrada intermedia,2
+ E^+0                                                                                               ,elíptica,6
+ SAB(s)m pec or S pec                                                                                 ,espiral barrada intermedia,2
+ S_AB(rs)c                                                                           ,espiral barrada intermedia,2
+ SB(r_s)d                                                                            ,espiral barrada,1
+ SA(l)b                                                                                               ,espiral no barrada,0
+ (R')SA(s)bc                                                                                ,espiral no barrada,0
+ (R')SA(rs)b                                                                                ,espiral no barrada,0
+ SA(rl)ab pec                                                                                         ,espiral no barrada,0
+ (R'L)SA(s)0/a:                                                                             ,espiral no barrada,0
+ (RL)SAB_a(r)0^+                                                                                  ,espiral barrada peculiar,3
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ (R'L)S_AB(s)c                                                             ,espiral barrada intermedia,2
+ E4                                                                                                   ,elíptica,6
+ SA(l)0^o                                                                                           ,espiral no barrada,0
+ E0                                                                                                   ,elíptica,6
+ (R')SAB(rs)b                                                                               ,espiral barrada intermedia,2
+" (R')SB(p,r,x_1r)b                                                                          ",espiral barrada,1
+ (RL)SA(rs)ab                                                                                         ,espiral no barrada,0
+ (R')SA(rs)bc                                                                               ,espiral no barrada,0
+ SAb                                                                                                  ,espiral no barrada,0
+" (R_1')SB(p,_rs,bl)a                                                       ",espiral barrada,1
+ SAB(s)cd                                                                                             ,espiral barrada intermedia,2
+ SA(_rs)b                                                                            ,espiral no barrada,0
+ E^+1                                                                                               ,elíptica,6
+ SAB(s)c                                                                                              ,espiral barrada intermedia,2
+ Sc spw                                                                                               ,espiral barra indeterminada,4
+ SA(rl)bc                                                                                             ,espiral no barrada,0
+ (R')SAB(rs)bc                                                                              ,espiral barrada intermedia,2
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R')SB(_rs)bc                                                             ,espiral barrada,1
+ E0-1                                                                                                 ,elíptica,6
+ (R_1')SAB(s)0/a pec                                                                        ,espiral barrada intermedia,2
+ SAB_xa0^o                                                                                      ,espiral barrada peculiar,3
+ E^+2                                                                                               ,elíptica,6
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ SA(s)cd:                                                                                             ,espiral no barrada,0
+ (R_1'R_2')SAB_a(r)a                                                            ,espiral barrada peculiar,3
+ SA_B(_rs)bc pec                                                    ,espiral barrada intermedia,2
+ SA_B(rs)bc                                                                          ,espiral barrada intermedia,2
+ S_AB(s)cd                                                                           ,espiral barrada intermedia,2
+" (R_1')SB(p,rs)ab                                                                           ",espiral barrada,1
+" (R_1')SB(p,_rs,bl)a                                                       ",espiral barrada,1
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SAB_a(r_s)b                                                                       ,espiral barrada peculiar,3
+ (R_1'L)SAB(rs)a                                                                            ,espiral barrada intermedia,2
+ SAB(r_s)d                                                                           ,espiral barrada intermedia,2
+ SAB(r_s)b                                                                           ,espiral barrada intermedia,2
+ SA(_rs)b                                                                            ,espiral no barrada,0
+ (R)SBm pec                                                                                           ,espiral barrada,1
+ SA0^+ sp                                                                                           ,espiral no barrada,0
+ (R_2')SAB(r'l)b                                                                  ,espiral barrada intermedia,2
+ SAc sp                                                                                               ,espiral no barrada,0
+" SAB(_rs,bl)bc                                                                       ",espiral barrada intermedia,2
+ SA(r)0/a pec                                                                                         ,espiral no barrada,0
+ SA(_rs)a                                                                            ,espiral no barrada,0
+ E0-1                                                                                                 ,elíptica,6
+ SAB:(s)c sp                                                                                          ,espiral barrada intermedia,2
+ SB(s)dm sp                                                                                           ,espiral barrada,1
+ SA(rl)b                                                                                              ,espiral no barrada,0
+ (R'L)S_AB(s)bc                                                            ,espiral barrada intermedia,2
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SAB(s)d                                                                                              ,espiral barrada intermedia,2
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+ SA(l)0^o                                                                                           ,espiral no barrada,0
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+" SB(rs,x_1r)c                                                                                         ",espiral barrada,1
+ Sd sp                                                                                                ,espiral barra indeterminada,4
+" S_AB(_rs,l)a                                                       ",espiral barrada intermedia,2
+" (R_1L,R_2')SAB(r'l)a                                                           ",espiral barrada intermedia,2
+ S_AB(r_s)c                                                         ,espiral barrada intermedia,2
+ (R')SA(rs)b                                                                                ,espiral no barrada,0
+ (L)S_AB(rs)b                                                                        ,espiral barrada intermedia,2
+ SAB(rs)c                                                                                             ,espiral barrada intermedia,2
+ E(d)6 / SA0^- sp                                                                                   ,espiral no barrada,0
+ E0-1                                                                                                 ,elíptica,6
+ SAB(r_s)bc                                                                          ,espiral barrada intermedia,2
+ SA(rl)0/a pec                                                                                        ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+" (R_1')SB(p,rs,nb)b                                                                         ",espiral barrada,1
+ SAb: sp                                                                                              ,espiral no barrada,0
+ SA_B(rs)bc                                                                          ,espiral barrada intermedia,2
+ SA(s)cd sp                                                                                           ,espiral no barrada,0
+ SA(s)a pec                                                                                           ,espiral no barrada,0
+ Sbc spw                                                                                              ,espiral barra indeterminada,4
+ SA0/a / E(d)3                                                                                        ,espiral no barrada,0
+ SA(s)dm pec                                                                                          ,espiral no barrada,0
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA0^o + offset ring? pec                                                                           ,espiral no barrada,0
+ SAB(_rs)a pec [d]                                                                   ,espiral barrada intermedia,2
+ S_AB0/a:                                                                            ,espiral barrada intermedia,2
+ SAB(bl)0^-                                                                                         ,espiral barrada intermedia,2
+ SA(l)0/a pec                                                                                         ,espiral no barrada,0
+ SA(rs)0/a                                                                                            ,espiral no barrada,0
+ (R_2')SA_B(s)0/a                                                          ,espiral barrada intermedia,2
+ SB(s)dm pec (or two superposed Ims?)                                                                 ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ S_AB(r)0^o                                                                        ,espiral barrada intermedia,2
+ SA(s)d sp                                                                                            ,espiral no barrada,0
+ (R')SAB_a(r)b pec                                                                        ,espiral barrada peculiar,3
+ Sb sp                                                                                                ,espiral barra indeterminada,4
+ SA(s)d                                                                                               ,espiral no barrada,0
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SAB(rs)b                                                                                             ,espiral barrada intermedia,2
+ SA_B(_rs)b                                                         ,espiral barrada intermedia,2
+ S_AB(rs)bc                                                                          ,espiral barrada intermedia,2
+ SA(r'l)ab                                                                                  ,espiral no barrada,0
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ (R')SAB(s)cd                                                                               ,espiral barrada intermedia,2
+ SA(s)b                                                                                               ,espiral no barrada,0
+ (R_1')SB(rs)b                                                                              ,espiral barrada,1
+ E^+1                                                                                               ,elíptica,6
+ Sc spw                                                                                               ,espiral barra indeterminada,4
+ SA(rs)bc pec sp                                                                                      ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R)SAB(l)0^+                                                                                       ,espiral barrada intermedia,2
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(s)b:                                                                                              ,espiral no barrada,0
+ (R')SB(r_s)b pec                                                          ,espiral barrada,1
+ S_AB(s)c                                                                            ,espiral barrada intermedia,2
+ SAB(rs)bc                                                                                            ,espiral barrada intermedia,2
+ (R'L)SA_B(_rs)ab                                         ,espiral barrada intermedia,2
+ SAB(s)c:                                                                                             ,espiral barrada intermedia,2
+ S_AB(rs)c                                                                           ,espiral barrada intermedia,2
+ Sc sp                                                                                                ,espiral barra indeterminada,4
+ SAB(s)m                                                                                              ,espiral barrada intermedia,2
+ (R')SAB(s)m                                                                                ,espiral barrada intermedia,2
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ Pec (merger)                                                                                         ,peculiar,8
+ SA(rs)b                                                                                              ,espiral no barrada,0
+" (R_1')SAB(l,s,tb)a                                                                         ",espiral barrada intermedia,2
+ (L)SB(_rs)ab                                                                        ,espiral barrada,1
+" SAB_a(rs,bl,nb:)b                                                                                  ",espiral barrada peculiar,3
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SB(s)dm                                                                                              ,espiral barrada,1
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ (R')SAB(rl)ab                                                                              ,espiral barrada intermedia,2
+ SAB(rl)a pec                                                                                         ,espiral barrada intermedia,2
+ SA(s)b                                                                                               ,espiral no barrada,0
+ SA0^- sp                                                                                           ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R)SA(r)0/a                                                                                          ,espiral no barrada,0
+ SA(s)cd                                                                                              ,espiral no barrada,0
+ SB(s)cd                                                                                              ,espiral barrada,1
+ Sm sp                                                                                                ,espiral barra indeterminada,4
+ (R_1)SAB(_rs)0^+                                                                ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R')SA(s)b                                                                                 ,espiral no barrada,0
+ SB(rs)dm                                                                                             ,espiral barrada,1
+ SA(rs)a                                                                                              ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SAb sp                                                                                               ,espiral no barrada,0
+ IAB(s)m                                                                                              ,irregular,7
+ SAB(rs)b pec                                                                                         ,espiral barrada intermedia,2
+ (R')SA(s)bc                                                                                ,espiral no barrada,0
+ (R')SB(_rs)b                                                              ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA(s)m                                                                                               ,espiral no barrada,0
+ SA(rs)c                                                                                              ,espiral no barrada,0
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ E2-3                                                                                                 ,elíptica,6
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SAB:(s)b sp                                                                                          ,espiral barrada intermedia,2
+ SA(s)d                                                                                               ,espiral no barrada,0
+ SA(rs)0^+                                                                                          ,espiral no barrada,0
+ (R_1'?)SAB_a(rs)b                                                                        ,espiral barrada peculiar,3
+ SB_xb spw                                                                                          ,espiral barrada peculiar,3
+ S_AB(s)bc:                                                                          ,espiral barrada intermedia,2
+ dIm                                                                                                  ,irregular,7
+" S_AB(_rs,ns)c                                                      ",espiral barrada intermedia,2
+" (R'?)SAB(s,tb)b                                                                            ",espiral barrada intermedia,2
+ SA0^o                                                                                              ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R_2')SAB(r)ab                                                                             ,espiral barrada intermedia,2
+ E pec (dust lane)                                                                                    ,elíptica,6
+" (R')SAB(_rs,nl)a                                                          ",espiral barrada intermedia,2
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ Sc sp                                                                                                ,espiral barra indeterminada,4
+ (R')SB(s)c                                                                                 ,espiral barrada,1
+ SB(rs)cd sp                                                                                          ,espiral barrada,1
+ SA(s)bc                                                                                              ,espiral no barrada,0
+" (R')SB(_rs,bl)ab                                                          ",espiral barrada,1
+ SA(_rs)ab                                                                           ,espiral no barrada,0
+ SA(rs)bc                                                                                             ,espiral no barrada,0
+ SA0^o                                                                                              ,espiral no barrada,0
+ SA(s)c                                                                                               ,espiral no barrada,0
+ SA0^+ sp                                                                                           ,espiral no barrada,0
+ (L)SAB(rs)b                                                                                          ,espiral barrada intermedia,2
+ SA0^o pec                                                                                          ,espiral no barrada,0
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ (R)SA(s)b pec                                                                                        ,espiral no barrada,0
+ SA(s)b                                                                                               ,espiral no barrada,0
+" (R')SA(rs,rs)c pec                                                                         ",espiral no barrada,0
+ SA(l)0^-                                                                                           ,espiral no barrada,0
+ (R')S_AB(_rs)b                                           ,espiral barrada intermedia,2
+ (R_1')SA_B(r_s)ab                                        ,espiral barrada intermedia,2
+" (R_1')SB(r,bl,nr)ab                                                                        ",espiral barrada,1
+ SA(s)c                                                                                               ,espiral no barrada,0
+ I(s)m / BCD                                                                                          ,irregular,7
+ E3-4                                                                                                 ,elíptica,6
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ SA(s)bc                                                                                              ,espiral no barrada,0
+ SA(_rs)ab                                                                           ,espiral no barrada,0
+ SB(s)cd pec                                                                                          ,espiral barrada,1
+ I0 pec                                                                                               ,irregular,7
+ SB(rs)cd                                                                                             ,espiral barrada,1
+" S_AB(_rs,l)bc pec                                                  ",espiral barrada intermedia,2
+ SAB(s)c pec                                                                                          ,espiral barrada intermedia,2
+ Sdm sp                                                                                               ,espiral barra indeterminada,4
+ (R')SA(s)c                                                                                 ,espiral no barrada,0
+ SAB(r_s)bc                                                                          ,espiral barrada intermedia,2
+ SA(s)c                                                                                               ,espiral no barrada,0
+ (R')SA(s)bc                                                                                ,espiral no barrada,0
+ SAB(s)c                                                                                              ,espiral barrada intermedia,2
+ SA(l)0^o pec                                                                                       ,espiral no barrada,0
+ SB(s)d (cc)                                                                                          ,espiral barrada,1
+ (R_2')SAB_a(l)0/a                                                                        ,espiral barrada peculiar,3
+ E(b?)5-6                                                                                             ,elíptica,6
+ SB(r_s)c                                                                            ,espiral barrada,1
+ Sc spw pec                                                                                           ,espiral barra indeterminada,4
+ SB(s)c                                                                                               ,espiral barrada,1
+ SAB(s)c                                                                                              ,espiral barrada intermedia,2
+ S_AB(rs)bc pec                                                                      ,espiral barrada intermedia,2
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ S0^o / E(d)7                                                                                       ,lenticular,5
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m sp                                                                                            ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp / E(d)8                                                                                    ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ S0^- sp                                                                                            ,lenticular,5
+ E(b)4-5                                                                                              ,elíptica,6
+ E(b)4-5                                                                                              ,elíptica,6
+ E(b)4-5                                                                                              ,elíptica,6
+ E(b)4-5                                                                                              ,elíptica,6
+ E(b)4-5                                                                                              ,elíptica,6
+ E(b)4-5                                                                                              ,elíptica,6
+ E(b)4-5                                                                                              ,elíptica,6
+ E(b)4-5                                                                                              ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ E(d)4-5                                                                                              ,elíptica,6
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ Im pec or ETG + PR?                                                                                  ,irregular,7
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ S0^- sp / E(d)4-5                                                                                  ,lenticular,5
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ Pec (merger with long tidal tails?)                                                                  ,peculiar,8
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ S0^- sp / E(d)7                                                                                    ,lenticular,5
+ (R')E4                                                                                     ,elíptica,6
+ (R')E4                                                                                     ,elíptica,6
+ (R')E4                                                                                     ,elíptica,6
+ (R')E4                                                                                     ,elíptica,6
+ (R')E4                                                                                     ,elíptica,6
+ (R')E4                                                                                     ,elíptica,6
+ (R')E4                                                                                     ,elíptica,6
+ (R')E4                                                                                     ,elíptica,6
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+" Im sp / E(b,d)6-7                                                                                    ",irregular,7
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E2                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ dE3?                                                                                                 ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E1                                                                                                   ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E^+1-2                                                                                             ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ E3                                                                                                   ,elíptica,6
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ S0^- sp pec / E5-6                                                                                 ,lenticular,5
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ IB(s)m                                                                                               ,irregular,7
+ E1-2                                                                                                 ,elíptica,6
+ E1-2                                                                                                 ,elíptica,6
+ E1-2                                                                                                 ,elíptica,6
+ E1-2                                                                                                 ,elíptica,6
+ E1-2                                                                                                 ,elíptica,6
+ E1-2                                                                                                 ,elíptica,6
+ E1-2                                                                                                 ,elíptica,6
+ E1-2                                                                                                 ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E1 pec (dust lane)                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E4-5                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ E^+0                                                                                               ,elíptica,6
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ S0^o sp / E(d)6-7                                                                                  ,lenticular,5
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ Pec (strong tidal tails)                                                                             ,peculiar,8
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E4                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E0                                                                                                   ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ (R'L)IA(s)m pec                                                                            ,irregular,7
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E^+2                                                                                               ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E0-1                                                                                                 ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ E^+1                                                                                               ,elíptica,6
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger)                                                                                         ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ Pec (merger with strong tidal tails)                                                                 ,peculiar,8
+ IAB(s)m                                                                                              ,irregular,7
+ IAB(s)m                                                                                              ,irregular,7
+ IAB(s)m                                                                                              ,irregular,7
+ IAB(s)m                                                                                              ,irregular,7
+ IAB(s)m                                                                                              ,irregular,7
+ IAB(s)m                                                                                              ,irregular,7
+ IAB(s)m                                                                                              ,irregular,7
+ IAB(s)m                                                                                              ,irregular,7
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ E2-3                                                                                                 ,elíptica,6
+ dIm                                                                                                  ,irregular,7
+ dIm                                                                                                  ,irregular,7
+ dIm                                                                                                  ,irregular,7
+ dIm                                                                                                  ,irregular,7
+ dIm                                                                                                  ,irregular,7
+ dIm                                                                                                  ,irregular,7
+ dIm                                                                                                  ,irregular,7
+ dIm                                                                                                  ,irregular,7
+ E pec (dust lane)                                                                                    ,elíptica,6
+ E pec (dust lane)                                                                                    ,elíptica,6
+ E pec (dust lane)                                                                                    ,elíptica,6
+ E pec (dust lane)                                                                                    ,elíptica,6
+ E pec (dust lane)                                                                                    ,elíptica,6
+ E pec (dust lane)                                                                                    ,elíptica,6
+ E pec (dust lane)                                                                                    ,elíptica,6
+ E pec (dust lane)                                                                                    ,elíptica,6
+ I(s)m / BCD                                                                                          ,irregular,7
+ I(s)m / BCD                                                                                          ,irregular,7
+ I(s)m / BCD                                                                                          ,irregular,7
+ I(s)m / BCD                                                                                          ,irregular,7
+ I(s)m / BCD                                                                                          ,irregular,7
+ I(s)m / BCD                                                                                          ,irregular,7
+ I(s)m / BCD                                                                                          ,irregular,7
+ I(s)m / BCD                                                                                          ,irregular,7
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ E3-4                                                                                                 ,elíptica,6
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ Pec (merger of 3?)                                                                                   ,peculiar,8
+ I0 pec                                                                                               ,irregular,7
+ I0 pec                                                                                               ,irregular,7
+ I0 pec                                                                                               ,irregular,7
+ I0 pec                                                                                               ,irregular,7
+ I0 pec                                                                                               ,irregular,7
+ I0 pec                                                                                               ,irregular,7
+ I0 pec                                                                                               ,irregular,7
+ I0 pec                                                                                               ,irregular,7
+ E(b?)5-6                                                                                             ,elíptica,6
+ E(b?)5-6                                                                                             ,elíptica,6
+ E(b?)5-6                                                                                             ,elíptica,6
+ E(b?)5-6                                                                                             ,elíptica,6
+ E(b?)5-6                                                                                             ,elíptica,6
+ E(b?)5-6                                                                                             ,elíptica,6
+ E(b?)5-6                                                                                             ,elíptica,6
+ E(b?)5-6                                                                                             ,elíptica,6

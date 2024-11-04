@@ -1,0 +1,723 @@
+CIG,Clasificación_Real,clasificación1,explicación clasificación1
+1, SA(rs)bc                                                                                             ,0,espiral
+2, SB(rs)cd                                                                                             ,0,espiral
+4, SA(rs)c                                                                                              ,0,espiral
+5, SA(rs)b:                                                                                             ,0,espiral
+6, SB(s)m pec or Pec (merger)                                                                           ,0,espiral
+7, SAB(rs)ab                                                                                            ,0,espiral
+8, SA(s)cd                                                                                              ,0,espiral
+9, SAc pec                                                                                              ,0,espiral
+11, SA(s)cd                                                                                              ,0,espiral
+12, Sb: spw pec                                                                                          ,0,espiral
+13, E3-4                                                                                                 ,1,elíptica
+14, E2                                                                                                   ,1,elíptica
+15, (R')SA(l)b                                                                                 ,0,espiral
+16, S0^o / E(d)7                                                                                       ,0,espiral
+17, SA(s)bc                                                                                              ,0,espiral
+18, S_AB(rs)c pec                                                                       ,0,espiral
+19, Sdm: sp                                                                                              ,0,espiral
+21, (R'L)SA(_rs)a                                                             ,0,espiral
+22, Pec (merger)                                                                                         ,4,no clasificado
+23, SAcd sp pec                                                                                          ,0,espiral
+24, (R)S_AB(rl)0^+                                                                    ,0,espiral
+25, SA(r)0^+ / E1                                                                                      ,0,espiral
+27, Sd: sp                                                                                               ,0,espiral
+29, Sdm sp                                                                                               ,0,espiral
+30, SA(rs)bc                                                                                             ,0,espiral
+31, SB(s)d                                                                                               ,0,espiral
+32, SA(s)ab                                                                                              ,0,espiral
+33, (R')SA(s)c pec                                                                             ,0,espiral
+34, SB(s)cd                                                                                              ,0,espiral
+36, SAB(s)c                                                                                              ,0,espiral
+37, SA(rs)c                                                                                              ,0,espiral
+39, SA(rs)c                                                                                              ,0,espiral
+40," (R')SA(_rs,r'l)b                                                ",0,espiral
+42, SAB(s)dm sp pec                                                                                      ,0,espiral
+43, SA(rl)0^+                                                                                          ,0,espiral
+44, IB(s)m                                                                                               ,2,irregular
+47, SB(_rs)b                                                                            ,0,espiral
+49, SAB(rs)bc                                                                                            ,0,espiral
+50, SA(s)m                                                                                               ,0,espiral
+51, SA(s)b                                                                                               ,0,espiral
+52, SA(r_s)b                                                                            ,0,espiral
+53, SAB(rs)b                                                                                             ,0,espiral
+54, SA(s)dm pec                                                                                          ,0,espiral
+55, SAB(s)b                                                                                              ,0,espiral
+56," (R_1'R_2')SB(p,rs,ns,tb)b                                                        ",0,espiral
+57, SAB_a(rs)0/a                                                                                       ,0,espiral
+58, SA(s)cd                                                                                              ,0,espiral
+59, SA(s)c                                                                                               ,0,espiral
+60, SA_B(s)d                                                                            ,0,espiral
+61, (R_2')SB(r'l)0/a                                                                 ,0,espiral
+63, IB(s)m sp                                                                                            ,2,irregular
+64, SB(s)m: pec                                                                                          ,0,espiral
+65, (R')SAB(s)b                                                                                ,0,espiral
+67, SAB(s)bc                                                                                             ,0,espiral
+68," (L,R_1')SAB(rs)a                                                                           ",0,espiral
+69, SAB(_rs)b                                                                           ,0,espiral
+70, SA(l:)0/a                                                                                            ,0,espiral
+71, Sc sp                                                                                                ,0,espiral
+72, S_AB(rs)b                                                                           ,0,espiral
+73, S_AB(s)c                                                                            ,0,espiral
+74, SA(s)b: pec                                                                                          ,0,espiral
+75, IB(s)m                                                                                               ,2,irregular
+76, SAB(rs)c pec                                                                                         ,0,espiral
+77, SA(r_s)c                                                                            ,0,espiral
+78, SA(s)c sp                                                                                            ,0,espiral
+79, SAB0^-                                                                                             ,0,espiral
+80, SA(s)bc pec                                                                                          ,0,espiral
+81, S0^- sp / E(d)8                                                                                    ,0,espiral
+82, S_AB(s)cd                                                                           ,0,espiral
+83, SA(rs)c                                                                                              ,0,espiral
+84, SA(r_s)bc                                                                           ,0,espiral
+85, SAB(s)m                                                                                              ,0,espiral
+86, SB(_rs)b                                                                            ,0,espiral
+87, S_AB(s)c: pec sp                                                                    ,0,espiral
+88, SA(rs)c                                                                                              ,0,espiral
+90, SAB(rs)c                                                                                             ,0,espiral
+91," (R'L)SA(rs,r'l)ab                                                                ",0,espiral
+92, S0^- sp                                                                                            ,0,espiral
+94, SA(s)c sp                                                                                            ,0,espiral
+95, Sc spw                                                                                               ,0,espiral
+96, SAB(r_s)c                                                                           ,0,espiral
+98, (R')SB(s)dm                                                                                ,0,espiral
+99, E(b)4-5                                                                                              ,1,elíptica
+100, SA(s)c                                                                                               ,0,espiral
+101, (RL)SA(l)0^+                                                                                       ,0,espiral
+106, SA(s)c                                                                                               ,0,espiral
+108, Sdm sp                                                                                               ,0,espiral
+110, (R)SAB(rl)0^+                                                                                      ,0,espiral
+111, SA(l)0^-                                                                                           ,0,espiral
+114, (R)S_AB(r'l)0^+                                                         ,0,espiral
+119, SB_a(s)c                                                                                           ,0,espiral
+123, (R')SB(r)bc pec                                                                            ,0,espiral
+124, SA0/a sp                                                                                             ,0,espiral
+128, SA(r)0/a                                                                                             ,0,espiral
+130, SAB_a(s)cd                                                                                         ,0,espiral
+132, SB(rs)bc pec                                                                                         ,0,espiral
+135, SB(_rs)b                                                                            ,0,espiral
+143, SA_B(s)dm                                                                           ,0,espiral
+144, (R')SA(r)b                                                                                 ,0,espiral
+145, Sa sp / E6 pec                                                                                       ,0,espiral
+146, SB(s)cd                                                                                              ,0,espiral
+149, SB(rs)ab                                                                                             ,0,espiral
+156, SA_B(rs)c                                                                           ,0,espiral
+158, SA(rs)b                                                                                              ,0,espiral
+181, SA_B(rs)bc pec                                                                      ,0,espiral
+186, S_AB(s)a                                                                            ,0,espiral
+187, SAB(s)bc                                                                                             ,0,espiral
+189, E2                                                                                                   ,1,elíptica
+194, SB(s)d sp / E7                                                                                       ,0,espiral
+195, (R_1')SAB(_rs)a                                                           ,0,espiral
+196, SAB:(s)d sp                                                                                          ,0,espiral
+198," SA(s,nb)c pec                                                                                        ",0,espiral
+199, (R')S_AB(s)bc                                                             ,0,espiral
+200," SB(rs,bl)bc                                                                                          ",0,espiral
+201, SA(rs)c sp                                                                                           ,0,espiral
+203, SAB(s)cd                                                                                             ,0,espiral
+204," (R')SA(_rs,bl)b                                                           ",0,espiral
+205, SA(s)c                                                                                               ,0,espiral
+207, SB(s)cd                                                                                              ,0,espiral
+208, SAB:(s)cd sp                                                                                         ,0,espiral
+210, SA(rs)b pec                                                                                          ,0,espiral
+211, (R')SA(r)a                                                                                 ,0,espiral
+212, SA(s)dm (cc)                                                                                         ,0,espiral
+213," (RL)SAB(r,nb)0^+                                                                                   ",0,espiral
+214, (R_2')S_AB(r)b                                                            ,0,espiral
+216, SAcd:                                                                                                ,0,espiral
+217, SA(rs)bc                                                                                             ,0,espiral
+219, SAB(s)c                                                                                              ,0,espiral
+220, Sb sp                                                                                                ,0,espiral
+221, (R')SB(rs)b pec                                                                            ,0,espiral
+222, SAB(rs)b                                                                                             ,0,espiral
+223, SA(_rs)b                                                                            ,0,espiral
+225," SA(s,rl)bc                                                                                           ",0,espiral
+226, (R_1')SB(r)a                                                                               ,0,espiral
+227, S_AB(rs)b                                                                           ,0,espiral
+228, (L)SB(bl)0^o                                                                                       ,0,espiral
+229, SA(s)c                                                                                               ,0,espiral
+231, (R_1')SAB:(rs)b sp                                                                         ,0,espiral
+232, SA(s)c                                                                                               ,0,espiral
+233, E(d)4-5                                                                                              ,1,elíptica
+234, SA(s)c pec                                                                                           ,0,espiral
+236," (R_1')SA_B(p,_rs)ab                                      ",0,espiral
+237, Sbc spw                                                                                              ,0,espiral
+238," (R_1')SB(p,r_s)b pec                                                      ",0,espiral
+241, SB(rs)d                                                                                              ,0,espiral
+242, SAB(rs)m pec                                                                                         ,0,espiral
+243, (L)SB(bl)0/a                                                                                         ,0,espiral
+244, (L)SB_a0^o                                                                                       ,0,espiral
+245, S_AB(l)0^o                                                                        ,0,espiral
+247, Im pec or ETG + PR?                                                                                  ,1,elíptica
+248, SAB(_rs)b                                                                           ,0,espiral
+249, SA(s)bc:                                                                                             ,0,espiral
+250," SB(s,l)dm                                                                                            ",0,espiral
+252, SA_B(rs)c                                                                           ,0,espiral
+253, SA(s)c                                                                                               ,0,espiral
+254, SA(s)c                                                                                               ,0,espiral
+255, SA(rs)b                                                                                              ,0,espiral
+257, S0^- sp / E(d)4-5                                                                                  ,0,espiral
+258, SAB(rs)b                                                                                             ,0,espiral
+259, (R')SB(_rs)a                                                              ,0,espiral
+260, SA(rs)c                                                                                              ,0,espiral
+261, S_AB(s)bc                                                                           ,0,espiral
+262, SA(r)0^+                                                                                           ,0,espiral
+263, (R')SAB(_rs)a                                                             ,0,espiral
+264, SB0^-                                                                                              ,0,espiral
+268, SB(r_s)cd                                                                           ,0,espiral
+269, (R')SA0/a                                                                                  ,0,espiral
+270, SAB(s)b sp                                                                                           ,0,espiral
+271, SA(s)bc                                                                                              ,0,espiral
+272, SAa pec                                                                                              ,0,espiral
+273, (R_1')SA_B(rs)ab pec                                                      ,0,espiral
+274, (R_1')SAB(s)a                                                                              ,0,espiral
+275, SAB(rs)b                                                                                             ,0,espiral
+276, Sdm sp                                                                                               ,0,espiral
+277, SB(rs)d                                                                                              ,0,espiral
+278, (R_2')SAB_a(rs)ab                                                                        ,0,espiral
+279, SA(s)dm                                                                                              ,0,espiral
+280, SA(s)c                                                                                               ,0,espiral
+281, SA(r_s)bc                                                                           ,0,espiral
+282, SAB(rs)bc                                                                                            ,0,espiral
+283, Sm sp + inner PD?                                                                                    ,0,espiral
+284, SA(rs)b:                                                                                             ,0,espiral
+286," SA(rs,l)b                                                                                            ",0,espiral
+287, S_AB(rs)ab                                                                          ,0,espiral
+288, SA(s)c                                                                                               ,0,espiral
+289, SA(s)bc                                                                                              ,0,espiral
+290, SA_B(s)d                                                                            ,0,espiral
+291, SA(s)cd pec                                                                                          ,0,espiral
+292, (R_1')SB(rs)b                                                                              ,0,espiral
+293, Pec (merger with long tidal tails?)                                                                  ,4,no clasificado
+294, Sd sp                                                                                                ,0,espiral
+295, SA(rs)c sp                                                                                           ,0,espiral
+296, SA(s)c                                                                                               ,0,espiral
+298, SB(rs)ab                                                                                             ,0,espiral
+299, SB(s)m sp                                                                                            ,0,espiral
+301, SA(s)a:                                                                                              ,0,espiral
+302, SAB(r_s)c pec                                                                       ,0,espiral
+303, SA(r)0^+ / E(d)5                                                                                   ,0,espiral
+304, SA(r_s)bc                                                                           ,0,espiral
+305, E1                                                                                                   ,1,elíptica
+306, SA(s)cd                                                                                              ,0,espiral
+307, SAB(rs)b                                                                                             ,0,espiral
+308, SA(s)ab                                                                                              ,0,espiral
+310, Sa sp                                                                                                ,0,espiral
+311, SAB(s)a:                                                                                             ,0,espiral
+312, SB(s:)cd                                                                                             ,0,espiral
+313, SA(s)bc                                                                                              ,0,espiral
+314," SA(r_s,nl)c                                                                         ",0,espiral
+316, S0^- sp / E(d)7                                                                                    ,0,espiral
+317, SAB(s)d                                                                                              ,0,espiral
+318, (R')SA(rs)a:                                                                               ,0,espiral
+319, (R')SA(rs)b sp                                                                             ,0,espiral
+321, SAB(s)cd                                                                                             ,0,espiral
+322, (R')SA(rs)b pec                                                                            ,0,espiral
+323, SA(r_s)bc                                                                           ,0,espiral
+325, SA(rl)bc                                                                                             ,0,espiral
+327, (R')SAB(s)0/a                                                                              ,0,espiral
+328, (R'L)SA(s)bc pec                                                                           ,0,espiral
+329, SA(rs)b sp                                                                                           ,0,espiral
+330, SAB(rs)b                                                                                             ,0,espiral
+331," (R')SA(rs,r)b                                                                              ",0,espiral
+332, SA(l)0^+ / E(d)5                                                                                   ,0,espiral
+333, SA(s)bc                                                                                              ,0,espiral
+334, SA(rs)b: sp                                                                                          ,0,espiral
+335, SA(s)c                                                                                               ,0,espiral
+336," (R_1')SB(_rs,bl)ab                                                        ",0,espiral
+337, SA(rs)b                                                                                              ,0,espiral
+338, (R')E4                                                                                     ,1,elíptica
+339," (R_2')SA_B_a(s,nb)bc                                                    ",0,espiral
+340, SA(rs)c                                                                                              ,0,espiral
+341, SAa pec                                                                                              ,0,espiral
+342, Sa sp / E(b)2 pec                                                                                    ,0,espiral
+343, SB(rs)dm                                                                                             ,0,espiral
+344, S_AB(s)cd                                                                           ,0,espiral
+345, SAc sp                                                                                               ,0,espiral
+346, (R)SA(rl)a                                                                                           ,0,espiral
+348, (R')SAB(s)0/a                                                                              ,0,espiral
+349, Pec (merger)                                                                                         ,4,no clasificado
+350, SAB(s)b sp                                                                                           ,0,espiral
+351," (R',R')SB(r)a pec                                                                ",0,espiral
+352," Im sp / E(b,d)6-7                                                                                    ",1,elíptica
+353, SB(rs)dm                                                                                             ,0,espiral
+354, SAB(s)dm                                                                                             ,0,espiral
+355, SB(s)dm                                                                                              ,0,espiral
+356, SA(s)bc                                                                                              ,0,espiral
+358, E2                                                                                                   ,1,elíptica
+359, (R')SA(rs)a pec                                                                            ,0,espiral
+360, SA_B(rs)cd                                                                          ,0,espiral
+361, (R')SA(rs)bc                                                                               ,0,espiral
+362, SA(s)b                                                                                               ,0,espiral
+364, SA(rl)0^o sp                                                                                       ,0,espiral
+365, SA_B(r)bc pec                                                                       ,0,espiral
+366," (R_1')SA_B(p,r_s)ab                                      ",0,espiral
+367, (R')SA(s)c                                                                                 ,0,espiral
+368, SA(rs)c                                                                                              ,0,espiral
+370, SAB(s)b                                                                                              ,0,espiral
+372, SB(_rs)bc                                                                           ,0,espiral
+373, SA(s)bc                                                                                              ,0,espiral
+374, SAB(s)b                                                                                              ,0,espiral
+375, (R')SAB(rl)a                                                                               ,0,espiral
+376, S_AB(s)bc pec                                                                       ,0,espiral
+378, E2                                                                                                   ,1,elíptica
+379, SB(r_s)cd                                                                           ,0,espiral
+380, SA0^-:                                                                                             ,0,espiral
+381, SB(rs)0/a                                                                                            ,0,espiral
+384, SA(s)bc                                                                                              ,0,espiral
+385, SB(s)dm                                                                                              ,0,espiral
+386, SAB(r_s)b                                                                           ,0,espiral
+387, E1                                                                                                   ,1,elíptica
+391, SAB:(s)dm sp                                                                                         ,0,espiral
+392, (R')SAB(rs)a                                                                               ,0,espiral
+393, SAB(r'l)0^o                                                                              ,0,espiral
+394, (R_1')SAB(l)ab                                                                             ,0,espiral
+395, (R')SA(s)ab                                                                                ,0,espiral
+396, E0-1                                                                                                 ,1,elíptica
+397, SA(s)bc pec                                                                                          ,0,espiral
+398, S_AB(rs)c                                                                           ,0,espiral
+399, SA(s)c                                                                                               ,0,espiral
+400, SAb spw                                                                                              ,0,espiral
+401, SA_B(rs)bc                                                                          ,0,espiral
+402, dE3?                                                                                                 ,1,elíptica
+403, SA(s)bc                                                                                              ,0,espiral
+404, (R_1)SB(rl)0/a                                                                                     ,0,espiral
+405, S_AB(s)c                                                                            ,0,espiral
+406, SA(s)b pec                                                                                           ,0,espiral
+408, (R')SA(s)c                                                                                 ,0,espiral
+409, SB(r_s)d                                                                            ,0,espiral
+410, SAB(s)c pec                                                                                          ,0,espiral
+411, SAB(_rs)0/a                                                                         ,0,espiral
+412, E1                                                                                                   ,1,elíptica
+413, (RL)S_AB_a(l)0^+                                                                ,0,espiral
+414, SAB(s)d (cc)                                                                                         ,0,espiral
+415, E2-3                                                                                                 ,1,elíptica
+416, Sdm sp                                                                                               ,0,espiral
+417, SA(s)ab                                                                                              ,0,espiral
+418, SA(s)d                                                                                               ,0,espiral
+419, SAB(rs)ab                                                                                            ,0,espiral
+420, SB_x0^+ sp                                                                                       ,0,espiral
+423," (R')SA(rs,r)bc                                                                             ",0,espiral
+424, (R')SA(rs)a pec                                                                            ,0,espiral
+425, S_AB0^-                                                                           ,0,espiral
+426, SA0^-:                                                                                             ,0,espiral
+427, S_AB(s)a pec                                                                        ,0,espiral
+429, SA(s)bc                                                                                              ,0,espiral
+430, (R')SA(r)a                                                                                 ,0,espiral
+431," (R)SA_B_a(r'l,x_1r,nb)a                                                 ",0,espiral
+432, SAB(rs)bc pec                                                                                        ,0,espiral
+433, SA(s)c                                                                                               ,0,espiral
+437, E3                                                                                                   ,1,elíptica
+438, SB(s)dm pec or [(R')SB(s)d+SBd:] superposition                                             ,0,espiral
+439, SB(rs)dm pec                                                                                         ,0,espiral
+440, SA(rs)bc                                                                                             ,0,espiral
+441, SAc                                                                                                  ,0,espiral
+443, SA0^- / E6                                                                                         ,0,espiral
+444, SA(s)c pec                                                                                           ,0,espiral
+445, SA(r_s)c                                                                            ,0,espiral
+446, SA(s)b                                                                                               ,0,espiral
+450, SB(s)m                                                                                               ,0,espiral
+451, SA(s)b:                                                                                              ,0,espiral
+453, SAc sp                                                                                               ,0,espiral
+454," SA(r,nl)b                                                                                            ",0,espiral
+456, (R')SA(rs)ab                                                                               ,0,espiral
+457, (R')SB(s)cd                                                                                ,0,espiral
+458, SA(s)b                                                                                               ,0,espiral
+459, SAB(s)d                                                                                              ,0,espiral
+460, SAB(r_s)cd                                                                          ,0,espiral
+462, SA0/a: pec                                                                                           ,0,espiral
+463, S_AB(s)d                                                                            ,0,espiral
+466," (R')SAB(r_s,rs)d                                                          ",0,espiral
+467," (RL)SB(rs,bl)0^+                                                                                   ",0,espiral
+468, SA(r)0^+ pec                                                                                       ,0,espiral
+471, SA(_rs)b                                                                            ,0,espiral
+473, SAB(s)cd                                                                                             ,0,espiral
+474, (R')SB(r_s)d                                                              ,0,espiral
+475, S_AB(r'l)b                                                                ,0,espiral
+476, SAc sp                                                                                               ,0,espiral
+478, SAB(s)bc                                                                                             ,0,espiral
+479, SB(s)dm                                                                                              ,0,espiral
+480, SA(r)0^+ or SB_x0^+                                                                            ,0,espiral
+481, SA(rs)ab / E-S0 pec                                                                                  ,0,espiral
+482, S_AB(s)c                                                                            ,0,espiral
+483, (R')SAB(s)0/a                                                                              ,0,espiral
+484, SAB(s)c pec                                                                                          ,0,espiral
+485, (R:)SA(l)0^o                                                                                       ,0,espiral
+487, SB(s)d pec                                                                                           ,0,espiral
+488, SAa pec                                                                                              ,0,espiral
+489, SAc pec                                                                                              ,0,espiral
+490, SA0/a pec                                                                                            ,0,espiral
+491, SA(rs)bc                                                                                             ,0,espiral
+492, Sb spw                                                                                               ,0,espiral
+493, SA(r'l)bc                                                                                  ,0,espiral
+494, SAB(s)d                                                                                              ,0,espiral
+495, (R_1')SA(r)0/a                                                                             ,0,espiral
+497, (R')SA(s)b                                                                                 ,0,espiral
+498, Sa sp / E(d)2                                                                                        ,0,espiral
+499, SAB(rs)b                                                                                             ,0,espiral
+500," (R')SB(r,bl)ab                                                                             ",0,espiral
+501, (R')SA(rl)a                                                                                ,0,espiral
+502," SA(rs:,nl)c pec                                                                                      ",0,espiral
+504, S                                                                                                    ,0,espiral
+505, SA(rs)cd:                                                                                            ,0,espiral
+507, SA_B(s)d                                                                            ,0,espiral
+508, SB(s)c pec                                                                                           ,0,espiral
+509, SA(s)cd                                                                                              ,0,espiral
+510, SAB(s)cd pec                                                                                         ,0,espiral
+512, SB(s)cd                                                                                              ,0,espiral
+513, E^+1-2                                                                                             ,1,elíptica
+514, (R')SB(rs)a                                                                                ,0,espiral
+515, SA(s)c                                                                                               ,0,espiral
+516, SA(s)c                                                                                               ,0,espiral
+517, E3                                                                                                   ,1,elíptica
+519, SA(rl)bc                                                                                             ,0,espiral
+520, SA(s)bc                                                                                              ,0,espiral
+521, S0^- sp pec / E5-6                                                                                 ,0,espiral
+522, SAB(s)a                                                                                              ,0,espiral
+525," (R_2')SB(_rs,bl)b                                                         ",0,espiral
+526, SA(rs)b pec                                                                                          ,0,espiral
+527, (R')SAc sp                                                                                 ,0,espiral
+528, S_AB(rs)b                                                                           ,0,espiral
+529, SA(r)0^o / E2                                                                                      ,0,espiral
+532, SB(rs)cd                                                                                             ,0,espiral
+533, E0-1                                                                                                 ,1,elíptica
+537, (L)SAB(rs)a pec                                                                                      ,0,espiral
+539," (R'L)SB(_rs,s)a                                                           ",0,espiral
+540, IB(s)m                                                                                               ,2,irregular
+541, SAB(rs)cd                                                                                            ,0,espiral
+542, (R')SAB(rs)bc: pec                                                                         ,0,espiral
+544," (R_1')SAB(p,rs,bl)ab                                                                       ",0,espiral
+545, SA(s)bc sp                                                                                           ,0,espiral
+546, SA(s)b                                                                                               ,0,espiral
+548, (R_1')SB_a(rs)a                                                                          ,0,espiral
+550," SB(rs,bl)bc                                                                                          ",0,espiral
+551, SB(s)cd sp                                                                                           ,0,espiral
+552, SAc: sp pec                                                                                          ,0,espiral
+553," (R')SB(r,bl)b                                                                              ",0,espiral
+554, (R')SAB_a(r'l)a                                                                ,0,espiral
+557, SA0^-                                                                                              ,0,espiral
+558, S_AB(r)cd                                                                           ,0,espiral
+560, (R')SB(s)dm (cc)                                                                           ,0,espiral
+561, (R')SA(s)b                                                                                 ,0,espiral
+563, SA(s)b                                                                                               ,0,espiral
+565, (R')SA(r)ab                                                                                ,0,espiral
+566, Sc spw                                                                                               ,0,espiral
+567, SB(rs)b                                                                                              ,0,espiral
+568, SA(s)bc                                                                                              ,0,espiral
+570, SB0^-                                                                                              ,0,espiral
+571, SA(s)c                                                                                               ,0,espiral
+572, (R')SA_B(r)a                                                              ,0,espiral
+575, S_AB(s)c                                                                            ,0,espiral
+576, SA:(s)bc sp                                                                                          ,0,espiral
+578, E1-2                                                                                                 ,1,elíptica
+579, (R_1R_2')SA(l)ab                                                                         ,0,espiral
+580, SA(s)b                                                                                               ,0,espiral
+581, SA_x(r)b                                                                                           ,0,espiral
+582, E1 pec (dust lane)                                                                                   ,1,elíptica
+583, SA(r_s)bc                                                                           ,0,espiral
+585, Sdm sp                                                                                               ,0,espiral
+586, SA_B(s)0^o                                                                        ,0,espiral
+587," SB(_rs,bl)b pec                                                                     ",0,espiral
+589, SA(_rs)a pec                                                                        ,0,espiral
+591, S_AB(rs)0/a                                                                         ,0,espiral
+592, (R_1')SA_B_a(l)a                                                        ,0,espiral
+593, SB(s)b: sp                                                                                           ,0,espiral
+594, SA(s)c                                                                                               ,0,espiral
+595, E4                                                                                                   ,1,elíptica
+596, (R_1)SB(r)0^+                                                                                    ,0,espiral
+598, SA(s)bc                                                                                              ,0,espiral
+599, SA0^-                                                                                              ,0,espiral
+600, SA(s)c                                                                                               ,0,espiral
+601," SA_B(r,bl)bc pec                                                                    ",0,espiral
+602, (R')SA(rl)a                                                                                ,0,espiral
+603, SB(_rs)bc pec                                                                       ,0,espiral
+604, (R_1)SAB_xa(r'l)a                                                                    ,0,espiral
+605," (R_1'R_2')SB_a(p,_rs,bl)b                                     ",0,espiral
+606, SA(s)bc                                                                                              ,0,espiral
+607, SA(s)b                     ,0,espiral
+608, SA(r)bc                                                                                              ,0,espiral
+609, SA(r)ab pec                                                                                          ,0,espiral
+611, (R')S_AB(rs)bc: pec                                                       ,0,espiral
+612, SB(_rs)bc pec                                                                       ,0,espiral
+613, SA(s)bc sp                                                                                           ,0,espiral
+614, E(d)5 / SA0^-                                                                                      ,0,espiral
+615, SB(s)d sp                                                                                            ,0,espiral
+616, SA(rs)b sp                                                                                           ,0,espiral
+617, SA0^- sp                                                                                           ,0,espiral
+618, (R_2')SAB_a(l)b                                                                          ,0,espiral
+619, SA(s)bc                                                                                              ,0,espiral
+620, SA(r:)ab / E(d)1-2                                                                                   ,0,espiral
+622, (R_1')S_AB(_rs)ab spw?                                   ,0,espiral
+623, SB0^-                                                                                              ,0,espiral
+625, SAB(s)c sp                                                                                           ,0,espiral
+626, SA(s)c                                                                                               ,0,espiral
+628, SA(s)c                                                                                               ,0,espiral
+630, SA(s)c                                                                                               ,0,espiral
+631," (R')SA(r'l,rs)c                                                                  ",0,espiral
+632, (R'L)SA(l)0/a                                                                              ,0,espiral
+633, (R')SA(s)ab                                                                                ,0,espiral
+634, SA(_rs)c                                                                            ,0,espiral
+635, (R')SAcd sp                                                                                ,0,espiral
+636, SA_B0^o                                                                           ,0,espiral
+637, E4-5                                                                                                 ,1,elíptica
+638, SAc sp                                                                                               ,0,espiral
+639, SA(rs)bc                                                                                             ,0,espiral
+640, SA(s)b                                                                                               ,0,espiral
+641, (R')SB(rs)a                                                                                ,0,espiral
+643, (R')SA(ls)b                                                                                ,0,espiral
+644, SAB_x(r)0^+                                                                                      ,0,espiral
+645," (R')SA(s,l,s)b                                                                             ",0,espiral
+646, SB(rs)dm                                                                                             ,0,espiral
+647, (R)SA(rs)a pec                                                                                       ,0,espiral
+648, SA(s)bc                                                                                              ,0,espiral
+649, SAd:                                                                                                 ,0,espiral
+650, SA(s)c                                                                                               ,0,espiral
+651, SAB(s)d sp                                                                                           ,0,espiral
+652, SA(s)c pec                                                                                           ,0,espiral
+653," (R')SA(rs,l)b                                                                              ",0,espiral
+655, SA(rs)bc                                                                                             ,0,espiral
+658, (R')SAB(s)d                                                                                ,0,espiral
+659, SA(rs)c                                                                                              ,0,espiral
+665, SA(rs)c                                                                                              ,0,espiral
+667, SA(s)b:                                                                                              ,0,espiral
+668, SA(rs)c sp                                                                                           ,0,espiral
+669, (R_1')SA_B(_rs)ab                                        ,0,espiral
+670, E3-4                                                                                                 ,1,elíptica
+671," (R')SA_B_a(s,tb)b                                                       ",0,espiral
+672, Sc spw                                                                                               ,0,espiral
+674, SA(s)c                                                                                               ,0,espiral
+675, (R_2')SAB_a(r)a                                                                          ,0,espiral
+676, Sb sp                                                                                                ,0,espiral
+677, SA(s)c                                                                                               ,0,espiral
+678, SA(rs)0/a                                                                                            ,0,espiral
+679, (R')SA(s)cd pec                                                                            ,0,espiral
+680, SA(s)b                                                                                               ,0,espiral
+681, (R')SA(s)b                                                                                 ,0,espiral
+683, (R')SAB(rs)b pec                                                                           ,0,espiral
+685, E^+0                                                                                               ,1,elíptica
+687, SAB(s)m pec or S pec                                                                                 ,0,espiral
+688, S_AB(rs)c                                                                           ,0,espiral
+689, SB(r_s)d                                                                            ,0,espiral
+690, SA(l)b                                                                                               ,0,espiral
+693, (R')SA(s)bc                                                                                ,0,espiral
+694, (R')SA(rs)b                                                                                ,0,espiral
+695, SA(rl)ab pec                                                                                         ,0,espiral
+696, (R'L)SA(s)0/a:                                                                             ,0,espiral
+697, (RL)SAB_a(r)0^+                                                                                  ,0,espiral
+698, S0^o sp / E(d)6-7                                                                                  ,0,espiral
+700, SA(s)cd                                                                                              ,0,espiral
+701, Pec (strong tidal tails)                                                                             ,4,no clasificado
+702, (R'L)S_AB(s)c                                                             ,0,espiral
+703, E4                                                                                                   ,1,elíptica
+704, SA(l)0^o                                                                                           ,0,espiral
+705, E0                                                                                                   ,1,elíptica
+709, (R')SAB(rs)b                                                                               ,0,espiral
+712," (R')SB(p,r,x_1r)b                                                                          ",0,espiral
+714, (RL)SA(rs)ab                                                                                         ,0,espiral
+716, (R')SA(rs)bc                                                                               ,0,espiral
+717, SAb                                                                                                  ,0,espiral
+719," (R_1')SB(p,_rs,bl)a                                                       ",0,espiral
+720, SAB(s)cd                                                                                             ,0,espiral
+721, SA(_rs)b                                                                            ,0,espiral
+722, E^+1                                                                                               ,1,elíptica
+723, SAB(s)c                                                                                              ,0,espiral
+724, Sc spw                                                                                               ,0,espiral
+725, SA(rl)bc                                                                                             ,0,espiral
+726, (R')SAB(rs)bc                                                                              ,0,espiral
+728, (R'L)IA(s)m pec                                                                            ,2,irregular
+731, (R')SB(_rs)bc                                                             ,0,espiral
+732, E0-1                                                                                                 ,1,elíptica
+733, (R_1')SAB(s)0/a pec                                                                        ,0,espiral
+734, SAB_xa0^o                                                                                      ,0,espiral
+735, E^+2                                                                                               ,1,elíptica
+736, SA(s)cd                                                                                              ,0,espiral
+739, SA(s)cd:                                                                                             ,0,espiral
+740, (R_1'R_2')SAB_a(r)a                                                            ,0,espiral
+741, SA_B(_rs)bc pec                                                    ,0,espiral
+743, SA_B(rs)bc                                                                          ,0,espiral
+744, S_AB(s)cd                                                                           ,0,espiral
+747," (R_1')SB(p,rs)ab                                                                           ",0,espiral
+749," (R_1')SB(p,_rs,bl)a                                                       ",0,espiral
+750, SA(s)c                                                                                               ,0,espiral
+751, SAB_a(r_s)b                                                                       ,0,espiral
+752, (R_1'L)SAB(rs)a                                                                            ,0,espiral
+754, SAB(r_s)d                                                                           ,0,espiral
+757, SAB(r_s)b                                                                           ,0,espiral
+758, SA(_rs)b                                                                            ,0,espiral
+761, (R)SBm pec                                                                                           ,0,espiral
+762, SA0^+ sp                                                                                           ,0,espiral
+764, (R_2')SAB(r'l)b                                                                  ,0,espiral
+765, SAc sp                                                                                               ,0,espiral
+767," SAB(_rs,bl)bc                                                                       ",0,espiral
+768, SA(r)0/a pec                                                                                         ,0,espiral
+769, SA(_rs)a                                                                            ,0,espiral
+771, E0-1                                                                                                 ,1,elíptica
+773, SAB:(s)c sp                                                                                          ,0,espiral
+778, SB(s)dm sp                                                                                           ,0,espiral
+780, SA(rl)b                                                                                              ,0,espiral
+784, (R'L)S_AB(s)bc                                                            ,0,espiral
+786, SA(s)bc                                                                                              ,0,espiral
+793, SAB(s)d                                                                                              ,0,espiral
+795, SAB(rs)b                                                                                             ,0,espiral
+803, SA(l)0^o                                                                                           ,0,espiral
+805, SA(rs)c                                                                                              ,0,espiral
+807, SA(s)c                                                                                               ,0,espiral
+808," SB(rs,x_1r)c                                                                                         ",0,espiral
+810, Sd sp                                                                                                ,0,espiral
+811," S_AB(_rs,l)a                                                       ",0,espiral
+815," (R_1L,R_2')SAB(r'l)a                                                           ",0,espiral
+818, S_AB(r_s)c                                                         ,0,espiral
+828, (R')SA(rs)b                                                                                ,0,espiral
+829, (L)S_AB(rs)b                                                                        ,0,espiral
+832, SAB(rs)c                                                                                             ,0,espiral
+835, E(d)6 / SA0^- sp                                                                                   ,0,espiral
+836, E0-1                                                                                                 ,1,elíptica
+839, SAB(r_s)bc                                                                          ,0,espiral
+841, SA(rl)0/a pec                                                                                        ,0,espiral
+848, SA(s)c                                                                                               ,0,espiral
+858," (R_1')SB(p,rs,nb)b                                                                         ",0,espiral
+872, SAb: sp                                                                                              ,0,espiral
+873, SA_B(rs)bc                                                                          ,0,espiral
+880, SA(s)cd sp                                                                                           ,0,espiral
+881, SA(s)a pec                                                                                           ,0,espiral
+884, Sbc spw                                                                                              ,0,espiral
+886, SA0/a / E(d)3                                                                                        ,0,espiral
+891, SA(s)dm pec                                                                                          ,0,espiral
+892, SA(s)bc                                                                                              ,0,espiral
+893, SA0^o + offset ring? pec                                                                           ,0,espiral
+894, SAB(_rs)a pec [d]                                                                   ,0,espiral
+895, S_AB0/a:                                                                            ,0,espiral
+896, SAB(bl)0^-                                                                                         ,0,espiral
+897, SA(l)0/a pec                                                                                         ,0,espiral
+898, SA(rs)0/a                                                                                            ,0,espiral
+900, (R_2')SA_B(s)0/a                                                          ,0,espiral
+901, SB(s)dm pec (or two superposed Ims?)                                                                 ,0,espiral
+902, SA(s)bc                                                                                              ,0,espiral
+903, S_AB(r)0^o                                                                        ,0,espiral
+904, SA(s)d sp                                                                                            ,0,espiral
+905, (R')SAB_a(r)b pec                                                                        ,0,espiral
+906, Sb sp                                                                                                ,0,espiral
+907, SA(s)d                                                                                               ,0,espiral
+909, SA(rs)c                                                                                              ,0,espiral
+910, SAB(rs)b                                                                                             ,0,espiral
+911, SA_B(_rs)b                                                         ,0,espiral
+912, S_AB(rs)bc                                                                          ,0,espiral
+914, SA(r'l)ab                                                                                  ,0,espiral
+915, SA(rs)bc                                                                                             ,0,espiral
+916, (R')SAB(s)cd                                                                               ,0,espiral
+917, SA(s)b                                                                                               ,0,espiral
+919, (R_1')SB(rs)b                                                                              ,0,espiral
+920, E^+1                                                                                               ,1,elíptica
+922, Sc spw                                                                                               ,0,espiral
+923, SA(rs)bc pec sp                                                                                      ,0,espiral
+924, SA(s)c                                                                                               ,0,espiral
+925, SA(s)c                                                                                               ,0,espiral
+926, (R)SAB(l)0^+                                                                                       ,0,espiral
+927, SA(rs)c                                                                                              ,0,espiral
+928, SA(s)b:                                                                                              ,0,espiral
+929, (R')SB(r_s)b pec                                                          ,0,espiral
+930, S_AB(s)c                                                                            ,0,espiral
+931, SAB(rs)bc                                                                                            ,0,espiral
+932, (R'L)SA_B(_rs)ab                                         ,0,espiral
+934, SAB(s)c:                                                                                             ,0,espiral
+935, S_AB(rs)c                                                                           ,0,espiral
+936, Sc sp                                                                                                ,0,espiral
+937, SAB(s)m                                                                                              ,0,espiral
+938, (R')SAB(s)m                                                                                ,0,espiral
+939, SA(s)bc                                                                                              ,0,espiral
+940, Pec (merger)                                                                                         ,4,no clasificado
+942, SA(rs)b                                                                                              ,0,espiral
+943," (R_1')SAB(l,s,tb)a                                                                         ",0,espiral
+944, (L)SB(_rs)ab                                                                        ,0,espiral
+945," SAB_a(rs,bl,nb:)b                                                                                  ",0,espiral
+946, Pec (merger with strong tidal tails)                                                                 ,4,no clasificado
+948, SA(rs)c                                                                                              ,0,espiral
+949, SB(s)dm                                                                                              ,0,espiral
+950, SA(rs)c                                                                                              ,0,espiral
+951, (R')SAB(rl)ab                                                                              ,0,espiral
+952, SAB(rl)a pec                                                                                         ,0,espiral
+953, SA(s)b                                                                                               ,0,espiral
+954, SA0^- sp                                                                                           ,0,espiral
+955, SA(s)c                                                                                               ,0,espiral
+956, (R)SA(r)0/a                                                                                          ,0,espiral
+957, SA(s)cd                                                                                              ,0,espiral
+958, SB(s)cd                                                                                              ,0,espiral
+959, Sm sp                                                                                                ,0,espiral
+960, (R_1)SAB(_rs)0^+                                                                ,0,espiral
+961, SA(s)c                                                                                               ,0,espiral
+962, (R')SA(s)b                                                                                 ,0,espiral
+963, SB(rs)dm                                                                                             ,0,espiral
+965, SA(rs)a                                                                                              ,0,espiral
+966, SA(s)c                                                                                               ,0,espiral
+970, SAb sp                                                                                               ,0,espiral
+972, IAB(s)m                                                                                              ,2,irregular
+973, SAB(rs)b pec                                                                                         ,0,espiral
+974, (R')SA(s)bc                                                                                ,0,espiral
+975, (R')SB(_rs)b                                                              ,0,espiral
+976, SA(s)bc                                                                                              ,0,espiral
+977, SA(s)m                                                                                               ,0,espiral
+978, SA(rs)c                                                                                              ,0,espiral
+980, SA(s)bc                                                                                              ,0,espiral
+981, E2-3                                                                                                 ,1,elíptica
+982, SA(s)c                                                                                               ,0,espiral
+984, SAB:(s)b sp                                                                                          ,0,espiral
+985, SA(s)d                                                                                               ,0,espiral
+986, SA(rs)0^+                                                                                          ,0,espiral
+987, (R_1'?)SAB_a(rs)b                                                                        ,0,espiral
+988, SB_xb spw                                                                                          ,0,espiral
+989, S_AB(s)bc:                                                                          ,0,espiral
+990, dIm                                                                                                  ,2,irregular
+992," S_AB(_rs,ns)c                                                      ",0,espiral
+993," (R'?)SAB(s,tb)b                                                                            ",0,espiral
+994, SA0^o                                                                                              ,0,espiral
+997, SA(s)c                                                                                               ,0,espiral
+998, (R_2')SAB(r)ab                                                                             ,0,espiral
+999, E pec (dust lane)                                                                                    ,1,elíptica
+1001," (R')SAB(_rs,nl)a                                                          ",0,espiral
+1002, SA(s)bc                                                                                              ,0,espiral
+1003, Sc sp                                                                                                ,0,espiral
+1004, (R')SB(s)c                                                                                 ,0,espiral
+1005, SB(rs)cd sp                                                                                          ,0,espiral
+1007, SA(s)bc                                                                                              ,0,espiral
+1008," (R')SB(_rs,bl)ab                                                          ",0,espiral
+1009, SA(_rs)ab                                                                           ,0,espiral
+1010, SA(rs)bc                                                                                             ,0,espiral
+1011, SA0^o                                                                                              ,0,espiral
+1012, SA(s)c                                                                                               ,0,espiral
+1013, SA0^+ sp                                                                                           ,0,espiral
+1014, (L)SAB(rs)b                                                                                          ,0,espiral
+1015, SA0^o pec                                                                                          ,0,espiral
+1016, SA(s)bc                                                                                              ,0,espiral
+1017, (R)SA(s)b pec                                                                                        ,0,espiral
+1018, SA(s)b                                                                                               ,0,espiral
+1019," (R')SA(rs,rs)c pec                                                                         ",0,espiral
+1020, SA(l)0^-                                                                                           ,0,espiral
+1021, (R')S_AB(_rs)b                                           ,0,espiral
+1022, (R_1')SA_B(r_s)ab                                        ,0,espiral
+1023," (R_1')SB(r,bl,nr)ab                                                                        ",0,espiral
+1024, SA(s)c                                                                                               ,0,espiral
+1025, I(s)m / BCD                                                                                          ,2,irregular
+1026, E3-4                                                                                                 ,1,elíptica
+1027, Pec (merger of 3?)                                                                                   ,4,no clasificado
+1028, SA(s)bc                                                                                              ,0,espiral
+1029, SA(_rs)ab                                                                           ,0,espiral
+1030, SB(s)cd pec                                                                                          ,0,espiral
+1032, I0 pec                                                                                               ,2,irregular
+1033, SB(rs)cd                                                                                             ,0,espiral
+1034," S_AB(_rs,l)bc pec                                                  ",0,espiral
+1035, SAB(s)c pec                                                                                          ,0,espiral
+1036, Sdm sp                                                                                               ,0,espiral
+1037, (R')SA(s)c                                                                                 ,0,espiral
+1038, SAB(r_s)bc                                                                          ,0,espiral
+1039, SA(s)c                                                                                               ,0,espiral
+1040, (R')SA(s)bc                                                                                ,0,espiral
+1041, SAB(s)c                                                                                              ,0,espiral
+1042, SA(l)0^o pec                                                                                       ,0,espiral
+1043, SB(s)d (cc)                                                                                          ,0,espiral
+1044, (R_2')SAB_a(l)0/a                                                                        ,0,espiral
+1045, E(b?)5-6                                                                                             ,1,elíptica
+1046, SB(r_s)c                                                                            ,0,espiral
+1047, Sc spw pec                                                                                           ,0,espiral
+1048, SB(s)c                                                                                               ,0,espiral
+1050, SAB(s)c                                                                                              ,0,espiral
+1051, S_AB(rs)bc pec                                                                      ,0,espiral
